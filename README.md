@@ -21,7 +21,7 @@ As can be seen in the screenshot above, the contact data is presented in a colum
 
 ## Part I - Database Design
 
-After examining the data structure in the excel files, the database design was fairly straight forward. To normalize the data, the database was split into four tables: campaigns, contacts, category, and subcategory. Below is the schema for the crowdfunding database with more details.
+After examining the data structure in the excel files, the database design was fairly straightforward. To normalize the data, the database was split into four tables: campaigns, contacts, category, and subcategory. Below is the schema for the crowdfunding database with more details.
 
 Schema for Crowdfunding DB
 
